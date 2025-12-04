@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "OMAE",
+  "base_artist": "JAKEN",
+  "createdAt": "2025-12-04T08:09:38.203480Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Omae Wa Mou",
+      "artist": "deadman 死人",
+      "has_synced": true,
+      "path": "select/01_Omae_Wa_Mou_deadman_死人.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Omae Wa Mou",
+      "artist": "CG5",
+      "has_synced": true,
+      "path": "select/02_Omae_Wa_Mou_CG5.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Omae Wa Mou",
+      "artist": "JINJA",
+      "has_synced": false,
+      "path": "select/03_Omae_Wa_Mou_JINJA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Omae Wa Mou",
+      "artist": "Caleb Hyles feat. Ironmouse",
+      "has_synced": false,
+      "path": "select/04_Omae_Wa_Mou_Caleb_Hyles_feat._Ironmouse.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Omae Wa Mou",
+      "artist": "Caleb Hyles/Ironmouse",
+      "has_synced": false,
+      "path": "select/05_Omae_Wa_Mou_Caleb_Hyles_Ironmouse.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Omae",
+      "artist": "tricot",
+      "has_synced": false,
+      "path": "select/06_Omae_tricot.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tiny Little Adiantum - Omae wa Mou",
+      "artist": "Rainych",
+      "has_synced": true,
+      "path": "select/07_Tiny_Little_Adiantum_-_Omae_wa_Mou_Rainych.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Omae Wa Mou",
+      "artist": "deadman 死人 ft. Shibayan",
+      "has_synced": true,
+      "path": "select/08_Omae_Wa_Mou_deadman_死人_ft._Shibayan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Omae Wa Mou",
+      "artist": "Shayne Orok",
+      "has_synced": true,
+      "path": "select/09_Omae_Wa_Mou_Shayne_Orok.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Omae wa Mou",
+      "artist": "deadman",
+      "has_synced": true,
+      "path": "select/10_Omae_wa_Mou_deadman.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Omae Wa Mou (feat. Ironmouse)",
+      "artist": "Caleb Hyles",
+      "has_synced": false,
+      "path": "select/11_Omae_Wa_Mou_(feat._Ironmouse)_Caleb_Hyles.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rock Oreimairi~3 Chords de Omae Fullbocco~",
+      "artist": "Maximum the Hormone",
+      "has_synced": false,
+      "path": "select/12_Rock_Oreimairi~3_Chords_de_Omae_Fullbocco~_Maximum_the_Hormone.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rock Oreimairi~3 Chords de Omae Full-bokko~",
+      "artist": "Maximum the Hormone",
+      "has_synced": false,
+      "path": "select/13_Rock_Oreimairi~3_Chords_de_Omae_Full-bokko~_Maximum_the_Hormone.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tiny Little Adiantum (Omae wa Mou ver.)",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/14_Tiny_Little_Adiantum_(Omae_wa_Mou_ver.)_Sati_Akura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OMAE (feat. 百足 & 韻マン)",
+      "artist": "JAKEN",
+      "has_synced": false,
+      "path": "select/pl_01_OMAE_(feat._百足_&_韻マン)_JAKEN.txt"
+    }
+  ]
+}
